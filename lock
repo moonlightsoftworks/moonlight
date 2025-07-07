@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/moonlightsoftworks/Moon/refs/heads/main/Lock"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moonlightsoftworks/moon/refs/heads/main/lock"))()
